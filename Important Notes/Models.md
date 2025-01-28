@@ -1,0 +1,1 @@
+[1- Linear Regression](https://www.kdnuggets.com/linear-regression-from-scratch-with-numpy)
